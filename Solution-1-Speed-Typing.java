@@ -18,8 +18,7 @@ class Solution{
             if(i==m){
                 System.out.println("Case #"+(test+1)+": "+(ans+n-j));
             }else{
-                System.out.println("Case #"+(test+1)+
-                ": IMPOSSIBLE");
+                System.out.println("Case #"+(test+1)+": IMPOSSIBLE");
             }
         }
     }
